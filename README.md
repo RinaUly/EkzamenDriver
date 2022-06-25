@@ -20,6 +20,6 @@ https://mospolytech.ru/
 
 ## Снимки приложения
 
-![alt text](imgs/снимок интерфейса 1.png "Авторизация")
-![alt text](imgs/снимок интерфейса 2.png "Выбор карт")
-![alt text](imgs/снимок интерфейса 3.png "Сумма баллов")
+![alt text]([imgs/снимок интерфейса 1.png](https://github.com/RinaUly/EkzamenDriver/blob/Etap2/imgs/%D1%81%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D1%84%D0%B5%D0%B9%D1%81%D0%B0%201.png) "Авторизация")
+![alt text]([imgs/снимок интерфейса 2.png](https://github.com/RinaUly/EkzamenDriver/blob/Etap2/imgs/%D1%81%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D1%84%D0%B5%D0%B9%D1%81%D0%B0%202.png) "Выбор карт")
+![alt text]([imgs/снимок интерфейса 3.png](https://github.com/RinaUly/EkzamenDriver/blob/Etap2/imgs/%D1%81%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D1%84%D0%B5%D0%B9%D1%81%D0%B0%203.png) "Сумма баллов")
