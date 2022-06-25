@@ -1,9 +1,7 @@
 #include "mainwindow.h"
-
 #include <QFile>
 #include <QMessageBox>
 #include "gamewindow.h"
-
 #include "ui_mainwindow.h"
 
 

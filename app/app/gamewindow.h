@@ -1,5 +1,6 @@
 #ifndef GAMEWINDOW_H
 #define GAMEWINDOW_H
+#include <QPushButton>
 
 #include <QMainWindow>
 
@@ -14,6 +15,11 @@ class GameWindow : public QMainWindow
 public:
     explicit GameWindow(QWidget *parent = nullptr);
     ~GameWindow();
+
+private slots:
+    void on_pushButton_clicked();
+
+    void on_pushButton_3_clicked();
 
 private:
     Ui::GameWindow *ui;
