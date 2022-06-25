@@ -27,7 +27,7 @@ void MainWindow::on_loginButton_clicked() {
     return;
   }
 
-  QMessageBox::warning(this, "Login", "Wrong password");
+  QMessageBox::warning(this, "Авторизация", "Неправильный пароль");
 }
 
 void MainWindow::on_passwordEdit_textChanged(const QString &text) {
